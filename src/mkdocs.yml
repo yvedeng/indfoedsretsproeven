@@ -23,7 +23,7 @@ plugins:
         - da
   
 extra_css:
-  - css/neoteroi.css
+  - stylesheets/neoteroi.css
 
 markdown_extensions:
   - neoteroi.timeline
