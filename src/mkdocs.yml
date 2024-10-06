@@ -1,0 +1,33 @@
+site_name: Indfoedsretsproeven
+theme:
+  name: material
+  font:
+    code: Roboto Mono
+  features:
+    - search.suggest
+    - search.highlight
+
+nav:
+  - Home: index.md
+  - Danmarks Historie: 1_danmarks_historie.md
+  - Det Danske Demokrati: 2_det_danske_demokrati.md
+  - Den Danske Økonomi: 3_den_danske_økonomi.md
+  - Danmark og Omverdenen: 4_danmark_og_omverdenen.md
+  - Dansk Kulturliv: 5_dansk_kulturliv.md
+  - Temaopslag: 6_temaopslag.md
+
+plugins:
+  - search:
+      lang: 
+        - en
+        - da
+  
+extra_css:
+  - css/neoteroi.css
+
+markdown_extensions:
+  - neoteroi.timeline
+  - attr_list
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
