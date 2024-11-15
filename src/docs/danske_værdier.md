@@ -19,7 +19,7 @@ præsenteret af Bertel Haarder (tidligere kulturminister)
 
 ### Demokrati
 
-parlamentarisk demokrati: vi har et parlament, nemlig Folketinget, hvor alle danskere med valgret kan få lov til at stemme personer ind i – så bliver de medlemmer af Folketinget. 
+parlamentarisk demokrati: vi har et parlament, nemlig Folketinget, hvor alle danskere med valgret kan få lov til at stemme personer ind i – så bliver de medlemmer af Folketinget.
 
 Hvis ens parti får nok stemmer, eller man får støtte fra nok partier til at man har et flertal (der er 179 medlemmer i Folketinget, så man skal have mindst 90 mandater), så kan man danne regering.
 
