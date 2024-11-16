@@ -13,3 +13,7 @@ Derudover handler 5 af sprøgsmålene om danske værdier.
 - Danske historier
 - Danske værdier
 - Danske samfundsforhold
+
+## Kongerækken
+
+[timeline center alternate(./docs/kongerækken.json)]
