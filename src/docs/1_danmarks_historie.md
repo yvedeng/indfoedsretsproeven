@@ -44,7 +44,7 @@
 
 ### 1.3.1 MAGTKAMP MELLEM KONGE, ADEL OG KIRKE
 
-- I løbet af 1000-tallet opstod en selvstændig dansk kirke. Den var inddelt i **otte stifter**, det vil sige geografiske områder, der var administreret af kirken med en biskop som øverste leder.
+- I løbet af **1000-tallet** opstod **en selvstændig dansk kirke**. Den var inddelt i **otte stifter**, det vil sige geografiske områder, der var administreret af kirken med en biskop som øverste leder.
 
 - Efter **Knud den Stores** død i 1035 fulgte en ustabil periode. En række danske konger blev myrdet, og det gjorde kongemagten svagere. -> Kongerne for fremtiden kun kunne regere, hvis de lavede aftaler med stormændene.
 
@@ -55,7 +55,7 @@
 
 - **Kristendommen** i Danmark var underlagt ærkebiskoppen i **Hamborg-Bremen** i **Tyskland**. Dette svækkede (weaken) den danske konge og dermed Danmarks selvstændighed. Men i løbet af 1000-tallet opstod en **selvstændig dansk kirke**.
 
-  - I **1103** fik Lund i Skåne, som indtil 1658 var en del af Danmark, sin egen ærkebiskop med **hele Norden** under sig. Norden blev dermed et selvstændigt kirkeligt område som en del af den katolske kirke og direkte **under paven i Rom** – uafhængigt af den tyske kejsers (emperor) magt.
+  - I **1103** fik Lund i Skåne, som indtil **1658** var en del af Danmark, sin egen ærkebiskop med **hele Norden** under sig. Norden blev dermed et selvstændigt kirkeligt område som en del af den katolske kirke og direkte **under paven i Rom** – uafhængigt af den tyske kejsers (emperor) magt.
 
   - Befolkningen skulle betale **skat** til kirken, som hed **”tiende”**, fordi den udgjorde en tiendedel af høsten eller anden produktion.
   
@@ -65,7 +65,7 @@
 
 - **Loven** gjaldt først kun i **Jylland**, men store dele af den blev senere skrevet ind i **Den Danske Lov** fra **1683**, den første fælles lov for hele Danmark.
 
-- Danske konger gennemførte især i 1200-tallet adskillige korstog. Det var militære aktioner i området omkring Østersøen for at omvende hedenske folk, det vil her sige ikke-kristne, befolkninger til kristendommen. Et af de mest kendte korstog gik i **1219** til **Estland**. Det fortælles, at **Dannebrog** under et slag ved **Tallinn** faldt ned fra himlen og sikrede, at danskerne vandt slaget.
+- Danske konger gennemførte især i 1200-tallet adskillige **korstog** (十字军东征). Det var militære aktioner i området omkring Østersøen for at omvende hedenske folk, det vil her sige ikke-kristne, befolkninger til kristendommen. Et af de mest kendte korstog gik i **1219** til **Estland**. Det fortælles, at **Dannebrog** under et slag ved **Tallinn** faldt ned fra himlen og sikrede, at danskerne vandt slaget.
 
 ### 1.3.2 PEST, GENOPBYGNING OG KALMARUNION
 
@@ -81,7 +81,9 @@
 
 ### 1.4.1 REFORMATIONEN
 
-- Martin Luthers ideer kom til Danmark i 1520’erne. Det var især præsten **Hans Tausen (1494-1561)**, der udbredte dem.
+- En af disse bevægelser blev ledet af den **tyske munk** **Martin Luther**. Oprøret (the rebellion) førte til (lead to), at **store dele af Nord-europa brød med paven**. I stedet blev der grundlagt uafhængige protestantiske kirker i nært samarbejde med de lokale konger og fyrster (princes, rulers).
+
+- Martin Luthers ideer kom til Danmark i 1520’erne. Det var især **præsten** **Hans Tausen (1494-1561)**, der udbredte dem.
 
 - Under **Christian 3.s (1536-59)** ledelse vandt **protestanterne** i 1536 **borgerkrigen**. Samme år blev **reformationen**, det vil sige den religiøse forandring af kirken med udgangspunkt i Martin Luthers protestantiske lære, formelt gennemført. **Danmark** blev et **protestantisk land**, og kongen afsatte de katolske biskopper. Den danske kirke hørte nu under **kongen** i stedet for under **paven** (the pope). **Reformationen** medførte (resulted/lead to), at **kirkens politiske magt blev meget mindre**.
 
@@ -212,7 +214,7 @@ I første halvdel af 1800-tallet voksede nationalbevidstheden i Europa, herunder
 
 - Danmark måtte afstå **Slesvig**, **Holsten** og det lille hertugdømme **Lauenborg** til **Preussen** og **Østrig**.
 
-- Dele af den danske hær (army) trak sig nordpå i Jylland. Hovedparten af soldaterne holdt dog forsvarsstillingen ved **Dybbøl** nær Sønderborg.
+- Dele af den danske hær (army) trak sig nordpå i Jylland. Hovedparten af soldaterne holdt dog forsvarsstillingen ved **Dybbøl** nær Sønderborg. Den 18. april angreb **preusserne** Dybbøl efter et langvarigt bombardement, og de underlegne danske styrker led nederlag.
 
 - Krigen og tabet af hertugdømmerne i 1864 betød, at Danmark nu ubetinget var reduceret til en småstat **helt uden indflydelse** på de europæiske stormagters beslutninger.
 
@@ -228,7 +230,7 @@ I første halvdel af 1800-tallet voksede nationalbevidstheden i Europa, herunder
 - Den **første jernbane** inden for Danmarks nuværende grænser åbnede i **1847** og kørte mellem **København** og **Roskilde**.
 
 - I oktober 1871 blev den ’**Den internationale Arbejderforening for Danmark**’ grundlagt som en del af den internationale socialistiske bevægelse, der søgte at påvirke arbejdere i mange lande.
-- Arbejdsgiverne fastholdt på deres side retten til at lede og fordele arbejdet. Perioden var derfor præget af strejker og sammenstød. Det mest kendte sammenstød mellem demonstrerende arbejdere og myndighederne var **Slaget på Fælleden**, der fandt sted **i maj 1872**. Det var et stort arbejdermøde i­ København, som endte i kampe mellem politi og soldater på den ene side og arbejdere på den anden. Ingen blev dræbt på Fælleden, men mange blev fængslet.
+- Arbejdsgiverne fastholdt på deres side retten til at lede og fordele arbejdet. Perioden var derfor præget af (influenced by) strejker og sammenstød (collision). Det mest kendte sammenstød mellem **demonstrerende arbejdere** og **myndighederne** var **Slaget på Fælleden**, der fandt sted **i maj 1872**. Det var et stort arbejdermøde i­ København, som endte i kampe mellem politi og soldater på den ene side og arbejdere på den anden. Ingen blev dræbt på Fælleden, men mange blev fængslet.
 
 - Der opstod også et politisk arbejderparti, **Socialdemokratiet**. Det var i begyndelsen en del af arbejderbevægelsen, men blev i **1878** et selvstændigt parti.I **1884** blev de to første socialdemokrater valgt ind i **Folketinget**.
 
@@ -269,13 +271,13 @@ I første halvdel af 1800-tallet voksede nationalbevidstheden i Europa, herunder
 ### 1.8.4 KVINDEBEVÆGELSEN
 
 - Det var også i slutningen af 1800-tallet, at ligestillingskampen for alvor tog sin begyndelse.
-- **Dansk Kvindesamfund** – Danmarks ældste kvindeorganisation – blev stiftet i 1871.
-  - fik kvinder i 1875 adgang til at få en studentereksamen og til at komme på universitetet.
-  - I 1880 fik gifte kvinder ret til at hæve og bruge deres egen løn.
-  - I 1903 blev de offentlige gymnasier åbnet for piger.
-  - I 1921 fik kvinder lige adgang til de fleste offentlige stillinger – undtagen i forsvaret og som præster.
-  - I 1903 havde de fået **valgret**, men kun til folkekirkens menighedsråd.
-  - I **1915** blev grundloven ændret, så danske kvinder fik valgret til Rigsdagens to kamre, Folketinget og Landstinget.
+- **Dansk Kvindesamfund** – Danmarks ældste kvindeorganisation – blev stiftet i **1871**.
+  - fik kvinder i **1875** adgang til at få en **studentereksamen** og til at komme på **universitetet**.
+  - I **1880** fik **gifte kvinder ret** til at **hæve og bruge deres egen løn**.
+  - I **1903** blev de offentlige **gymnasier** åbnet for piger.
+  - I **1903** havde de fået **valgret**, men **kun til folkekirkens menighedsråd**.
+  - I **1915** blev grundloven ændret, så danske kvinder fik **valgret** til **Rigsdagens** to kamre, Folketinget og Landstinget.
+  - I **1921** fik kvinder **lige adgang** til de fleste offentlige stillinger – **undtagen** i **forsvaret** og som **præster**.
 
 ## 1.9 VERDENSKRIG, KRISER OG SOCIALREFORMER (1914-40)
 
@@ -285,8 +287,9 @@ I første halvdel af 1800-tallet voksede nationalbevidstheden i Europa, herunder
 
 - Det neutrale Danmark lå geografisk tæt på krigens fronter, men blev ikke direkte berørt af verdenskrigen.
 
-- Én dansk befolkningsgruppe blev særligt involveret i 1. Verdenskrig. Det var de **dansksindede slesvigere syd** for grænsen, som var
-blevet tyske statsborgere efter Danmarks tab af Slesvig i den 2. Slesvigske Krig i 1864.
+- Efter pres fra Tyskland valgte Danmark dog i 1914 at **lægge miner ud i nogle af de danske farvande**. Tysklands formål var at forhindre britiske krigsskibe i at sejle ind i Østersøen og dermed true Tyskland derfra. Men minefelterne kunne også hindre tyske skibe i at sejle gennem de danske stræder.
+
+- Én dansk befolkningsgruppe blev særligt involveret i 1. Verdenskrig. Det var de **dansksindede slesvigere syd** for grænsen, som var blevet tyske statsborgere efter Danmarks tab af Slesvig i den 2. Slesvigske Krig i 1864.
 
 - USA frygtede, at Tyskland skulle besætte Dansk Vestindien, og tilbød derfor i 1915 den danske regering at købe Sankt Thomas, Sankt Croix og Sankt Jan (på engelsk Sct. John). Efter en folkeafstemning i Danmark blev øerne i 1917 solgt for 25 millioner. dollars; til gengæld for salget anerkendte USA’s regering, at Grønland fuldt og helt hørte under Danmark.
 
@@ -316,6 +319,7 @@ blevet tyske statsborgere efter Danmarks tab af Slesvig i den 2. Slesvigske Krig
 
 - Danmark og Norge blev angrebet og besat af det tyske militær den **9. april 1940**.
 - Den tyske forklaring var, at Tyskland ville beskytte de to lande mod britisk besættelse. Men Tysklands besættelse af Danmark skyldtes især, at man var interesseret i Norge. Den tyske krigsførelse var afhængig af leverancer af jernmalm fra **Nordsverige**, som skulle udskibes gennem byen Narvik på den isfri, norske atlanterhavskyst. Den forsyning af råvarer havde briterne også vist interesse for.
+- Den 10. maj 1940 – en måned efter den danske overgivelse – blev også **Frankrig** invaderet af Tyskland, som besejrede de franske styrker på mindre end seks uger. Dermed stod **Storbritannien** næsten alene tilbage i kampen mod Hitler, og en allieret sejr syntes langt borte.
 - Efter en større krise i det dansk-tyske forhold i oktober **1942** blev der efter tysk krav dannet en ny regering under ledelse af **Erik Scavenius**, der var tidligere udenrigsminister og en kraftig fortaler for **samarbejdspolitikken** med Tyskland.
 - I august **1943**, hvor det stod mere og mere klart, at Tyskland ville tabe krigen, kom der imidlertid **store strejker i flere danske byer** som følge af stadig hårdere tyske krav.
 - Den 29. august **1943** besluttede regeringen at indgive sin afskedsbegæring (resignation letter) til kongen, efter at **Scavenius** havde afvist (rejected) tyskernes krav om at gribe aktivt ind mod strejkerne og den stadigt voksende modstand mod den tyske besættelse, herunder det tyske krav om dødsstraf for sabotage. Dermed **sluttede** den danske regerings **samarbejdspolitik** med Nazi-Tyskland. Den tyske besættelsesmagt opløste samtidig det danske militær.
@@ -330,11 +334,14 @@ blevet tyske statsborgere efter Danmarks tab af Slesvig i den 2. Slesvigske Krig
 
 ### 1.10.3 ISLAND BLIVER SELVSTÆNDIGT
 
-- I **1944** løsrev Island sig endegyldigt efter 564 år under Danmark.
-- Forbundslov (personalunion) med Danmark: Det vil sige, at den danske konge også var konge i Island. Videre blev den islandske udenrigs- og forsvarspolitik varetaget af Danmark.
+- I anden halvdel af 1800-tallet opstod der en stærk selvstændighedsbevægelse i Island, som i **1918** med den såkaldte **Forbundslov** havde **fået udstrakt selvstyre** i et forbund – en **”personalunion”** – **med Danmark**. Det vil sige, at 
+  - den danske konge også var konge i Island.
+  - den islandske udenrigs- og forsvarspolitik varetaget af Danmark.
+- **Forbundsloven** i **1918** udløb i 1943, som var under tysk besættelse havde derfor ikke reel mulighed for at genforhandle den.
+- I **1944** løsrev Island sig endegyldigt efter **564** år under Danmark.
+
 - **Storbritannien** besatte derfor Island i maj 1940 for at forhindre en tysk invasion. Senere under krigen overtog USA forsvaret af det islandske område.
-- Forbundsloven i 1918 udløb i 1943, og Danmark, som var under tysk besættelse havde derfor ikke reel mulighed for at genforhandle den.
-- Republikken Island blev således udråbt den **17. juni 1944**, som derfor blev Islands nationaldag.
+- **Republikken Island** blev således udråbt den **17. juni 1944**, som derfor blev Islands nationaldag.
 
 ### 1.10.4 MODSTAND OG BEFRIELSE
 
@@ -365,7 +372,7 @@ Danmark ændrede sig meget i tiden efter 2. Verdenskrig. Danmark opgav sin tradi
 - Den danske tradition for politisk stabilitet og enighed om de grundlæggende demokratiske spilleregler fortsatte under Den Kolde Krig. De sovjetisk støttede kommunister fik aldrig del i regeringsmagten i Danmark.
 
 - Ved en folkeafstemning i **1953** stemte et flertal for at ændre grundloven. Ændringen betød blandt andet, **at Landstinget blev afskaffet**. Der blev i stedet indført et såkaldt **etkammersystem med Folketinget som eneste lovgivende forsamling**. Desuden kom grundloven nu også til at gælde for **Grønland** og ikke kun for Danmark og Færøerne. Tronfølgen blev også ændret, sådan at den **danske trone kunne gå i arv til en kvinde**. (konge **Frederik 9. (1947-72)** havde tre døtre og ingen sønner.)
-- Med en ændring af tronfølgeloven i **2009** fik mænd og kvinder helt lige arveret til tronen, så det **altid er den ældste** – søn eller datter – der arver tronen.
+- Med en ændring af **tronfølgeloven** i **2009** fik mænd og kvinder helt lige arveret til tronen, så det **altid er den ældste** – søn eller datter – der arver tronen.
 
 - Det var **Socialdemokratiet**, der havde **størst politisk indflydelse** i de første årtier efter 2. Verdenskrig. Fra 1953 til 1968 blev alle regeringer i Danmark ledet af Socialdemokratiet.
 - **SF (Socialistisk Folkeparti)**. SF blev dannet i **1959** af en gruppe personer, der forlod DKP i protest mod de kommunistiske landes undertrykkelse af deres befolkninger.
@@ -398,9 +405,9 @@ Danmark blev i **1973** medlem af Det Europæiske Fællesskab, EF, der var forl�
 
 ### 1.12.1 DANMARKS MEDLEMSKAB AF EF
 
-- Den 1. januar 1973 trådte Danmark ind i EF. Et flertal på **63,3 procent** af vælgerne havde sagt ja til medlemskab ved en folkeafstemning i oktober 1972.
+- Den 1. januar **1973** trådte Danmark ind i EF. Et flertal på **63,3 procent** af vælgerne havde sagt ja til medlemskab ved en folkeafstemning i oktober 1972.
 
-- I 1986 var der en ny folkeafstemning om en styrkelse af samarbejdet i EF. **Afstemningen** handlede om Den Europæiske Fællesakt eller EF-pakken, som den kom til at hedde i Danmark. Den havde til formål at gennemføre et **indre marked** (single market), hvor varer, personer, tjenesteydelser og kapital kunne bevæge sig frit over grænserne mellem medlemslandene. Et flertal af danskerne (**56,2 procent**) stemte ja.
+- I **1986** var der en ny folkeafstemning om en **styrkelse af samarbejdet i EF**. **Afstemningen** handlede om Den Europæiske Fællesakt eller EF-pakken, som den kom til at hedde i Danmark. Den havde til formål at gennemføre et **indre marked** (single market), hvor varer, personer, tjenesteydelser og kapital kunne bevæge sig frit over grænserne mellem medlemslandene. Et flertal af danskerne (**56,2 procent**) stemte ja.
 
 ### 1.12.2 OLIEKRISE
 
@@ -408,7 +415,11 @@ Danmark blev i **1973** medlem af Det Europæiske Fællesskab, EF, der var forl�
 
 - Baggrunden var, at de arabiske lande øgede prisen markant på olie for at lægge pres på de vestlige lande, som støttede Israel i en krig mod Ægypten og Syrien (Yom Kippur-krigen).
 
-- Problemerne blev forværret og forlænget, da endnu en voldsom prisstigning på olie indtraf i 1979-80 på grund af uroligheder i Iran i forbindelse med den **islamiske revolution** og den efterfølgende krig mellem **Iran og Irak**. I løbet af 1980’erne faldt prisen på olie igen, fordi der blev udvundet mere olie uden for Mellemøsten, for eksempel i Nordsøen.
+- Problemerne blev forværret og forlænget, da endnu en voldsom prisstigning på olie indtraf i **1979-80** på grund af uroligheder i **Iran** i forbindelse med den **islamiske revolution** og den efterfølgende krig mellem **Iran og Irak**. I løbet af 1980’erne faldt prisen på olie **igen**, fordi der blev udvundet mere olie uden for Mellemøsten, for eksempel i Nordsøen.
+
+- Videre bidrog **oliekriserne** til at
+  - skabe en interesse for energi-besparende tiltag som bedre isolering af boliger
+  - udvikling af biler og elektronik (blandt andet tv-apparater, køleskabe og frysere), der bruger energien mere effektivt.
 
 ### 1.12.3 POLITISK OPBRUD
 
@@ -424,9 +435,9 @@ Danmark blev i **1973** medlem af Det Europæiske Fællesskab, EF, der var forl�
 
 - Schlüter-regeringen ophævede også DR’s monopol. I 1986 blev det således tilladt for private at eje tv-kanaler, og samme år vedtog Folketinget at etablere TV2, som sendte første gang i 1988.
   
-- I perioden 1982-2022 sad de borgerlige partier **Venstre** og **Det Konservative Folkeparti** således tilsammen i regering og havde statsministerposten i sammenlagt **24 år** og **Socialdemokratiet** i sammenlagt **16 år**.
+- I perioden **1982-2022** sad de borgerlige partier **Venstre** og **Det Konservative Folkeparti** således tilsammen i regering og havde statsministerposten i sammenlagt **24 år** og **Socialdemokratiet** i sammenlagt **16 år**.
 
-- **Socialdemokratiet** havde – kun med kortere afbrydelser – siddet i regering og haft statsministerposten det meste af tiden siden 1929. Men i **1982** overlod de – på grund af vanskeligheder (difficulty) med at løse de økonomiske problemer – regeringsmagten til den borgerlige fløj, uden at der havde været folketingsvalg. Statsministeren blev den konservative **Poul Schlüter**, som var statsminister i over ti år frem til 1993.
+- **Socialdemokratiet** havde – kun med kortere afbrydelser (interruptions) – siddet i regering og **haft statsministerposten det meste af tiden siden 1929**. Men i **1982** overlod de – på grund af vanskeligheder (difficulty) med at løse de økonomiske problemer – regeringsmagten til den borgerlige fløj, uden at der havde været folketingsvalg. Statsministeren blev den konservative **Poul Schlüter**, som var statsminister i over ti år frem til 1993.
 
 ### 1.12.4 SOCIALE BEVÆGELSER
 
@@ -478,11 +489,12 @@ I 1993 kom Socialdemokratiet igen til magten med **Poul Nyrup Rasmussen** som ny
 - En af de største langsigtede udfordringer for velfærdsstaten er, at der bliver færre til at betale for den velfærd, som flere skal nyde godt af.
 - Mange forskellige reformer har derfor sigtet mod at øge arbejdsudbuddet for at få flere til at arbejde,
   - A-kasse, løbende blevet afkortet siden 1990’erne og har siden den sidste reform på området i 2010 har den ligget på to år.
-  - **Tilbagetrækningsreform** fra 2011 skulle sikre en hurtigere og større stigning i, hvor gamle folk typisk blev, når de trækker sig tilbage fra arbejdsmarkedet.
+  - **Tilbagetrækningsreform** fra **2011** skulle sikre en hurtigere og større stigning i, hvor gamle folk typisk blev, når de trækker sig tilbage fra arbejdsmarkedet.
   
 ### 1.13.6 SUNDHEDSKRISE
 
 - de fleste (cirka 90 procent af Danmarks befolkning) blevet vaccineret med to eller tre stik.
+- Sundhedsvæsenet testede dagligt **tusindvis** af mennesker for at finde frem til de smittede, som derefter skulle blive hjemme noget tid, så de ikke smittede flere.
 - Globalt blev der registreret næsten **syv millioner** mennesker døde med coronavirus, herunder næsten **10.000** i Danmark (maj 2024).
   
 ### 1.13.7 NYT POLITISK OPBRUD
