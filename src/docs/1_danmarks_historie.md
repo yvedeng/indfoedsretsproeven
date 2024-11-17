@@ -44,6 +44,8 @@
 
 ### 1.3.1 MAGTKAMP MELLEM KONGE, ADEL OG KIRKE
 
+- I løbet af 1000-tallet opstod en selvstændig dansk kirke. Den var inddelt i **otte stifter**, det vil sige geografiske områder, der var administreret af kirken med en biskop som øverste leder.
+
 - Efter **Knud den Stores** død i 1035 fulgte en ustabil periode. En række danske konger blev myrdet, og det gjorde kongemagten svagere. -> Kongerne for fremtiden kun kunne regere, hvis de lavede aftaler med stormændene.
 
 - **Knud den Hellige** (1080-86) dræbt i **Sankt Albani Kirke** i **Odense** i **1086** af stormænd.
@@ -53,7 +55,7 @@
 
 - **Kristendommen** i Danmark var underlagt ærkebiskoppen i **Hamborg-Bremen** i **Tyskland**. Dette svækkede (weaken) den danske konge og dermed Danmarks selvstændighed. Men i løbet af 1000-tallet opstod en **selvstændig dansk kirke**.
 
-  - I **1103** fik Lund i Skåne, som indtil 1658 var en del af Danmark, sin egen ærkebiskop med **hele Norden** under sig. Norden blev dermed et selvstændigt kirkeligt område som en del af den katolske kirke og direkte under paven i Rom – uafhængigt af den tyske kejsers magt.
+  - I **1103** fik Lund i Skåne, som indtil 1658 var en del af Danmark, sin egen ærkebiskop med **hele Norden** under sig. Norden blev dermed et selvstændigt kirkeligt område som en del af den katolske kirke og direkte **under paven i Rom** – uafhængigt af den tyske kejsers (emperor) magt.
 
   - Befolkningen skulle betale **skat** til kirken, som hed **”tiende”**, fordi den udgjorde en tiendedel af høsten eller anden produktion.
   
@@ -85,6 +87,8 @@
 
 - Reformationen betød også, at det kun var kongen, der kunne udnævne præster og biskopper. På den måde kunne kirken nu bruges til at styrke kongemagten og med den **oversatte Bibel** også et **fælles dansk skriftsprog** ud i alle hjørner af det danske rige.
 
+- Danmark blev et protestantisk land, og kongen afsatte de katolske biskopper. Den katolske kirke havde ejet meget store værdier og haft meget jord, og alt dette overtog kongen nu. Samtidig lukkede han klostrene.
+
 - På længere sigt fik reformationen afgørende betydning for Danmarks historie, fordi den knyttede (linked) **stat**, **kirke**, **sprog** og **befolkning** tætsammen. I første omgang blev det begyndelsen til **en stærk statsmagt** (strong central government), der i **1660-61** udviklede sig til kongelig enevælde.
 
 ### 1.4.2 CHRISTIAN 4. OG SVENSKEKRIGENE
@@ -93,11 +97,11 @@
 
 - I første halvdel af 1600-tallet fik han opført mange bygninger: **Frederiksborg Slot** ved Hillerød, **Københavns Børs**, **Rosenborg Slot** og **Rundetårn** i København.
 
-- Magtbalancen mellem Danmark og Sverige ændrede sig markant, da Christian 4. i årene **1625-29** trak Danmark ind i **Trediveårskrigen** – en europæisk storkrig, som især foregik i Tyskland (1618-48).
+- Magtbalancen mellem Danmark og Sverige ændrede sig markant, da Christian 4. i årene **1625-29** trak Danmark ind i **Trediveårskrigen** – en europæisk storkrig, som især foregik i Tyskland (**1618-48**).
 
-- I **1643** angreb Sverige Danmark, og i **1645** måtte Danmark blandt andet afstå provinsen **Halland** i 30 år, **øen Gotland** i Østersøen og **dele af Norge** til Sverige. Ved Christian 4.s død i 1648 var Danmark et land i dyb krise, og Sveriges overmagt i forhold til Danmark skulle vare resten af 1600-tallet.
+- I **1643** angreb Sverige Danmark, og i **1645** måtte Danmark blandt andet afstå provinsen **Halland i 30 år**, **øen Gotland** i Østersøen og **dele af Norge** til Sverige. Ved Christian 4.s død i 1648 var Danmark et land i dyb krise, og Sveriges overmagt i forhold til Danmark skulle vare resten af 1600-tallet.
 
-- I årene **1657-60** var Danmark i **to omgange** igen i krig med Sverige. Under den første af disse krige erobrede svenskerne store dele af Danmark, som ved en **fredslutning i Roskilde** (Roskilde-freden) i **1658** for altid måtte afstå **Skåne**, **Halland** og **Blekinge** samt **flere norske områder** til Sverige. **Bornholm** blev også afstået til Sverige ved samme fredsslutning – men øens befolkning iværksatte hurtigt et oprør og fik styrtet det svenske styre på øen, således at Bornholm igen blev dansk.
+- I årene **1657-60** var Danmark i **to omgange** igen i krig med Sverige. Under den første af disse krige erobrede svenskerne store dele af Danmark, som ved en **fredslutning i Roskilde** (Roskilde-freden) i **1658** for **altid** måtte afstå **Skåne**, **Halland** og **Blekinge** samt **flere norske områder** til Sverige. **Bornholm** blev også afstået til Sverige ved samme fredsslutning – men øens befolkning iværksatte hurtigt et oprør og fik styrtet det svenske styre på øen, således at Bornholm igen blev dansk.
 
 ### 1.4.3 ENEVÆLDEN INDFØRELSE (The Introduction of Absolutism 专制主义)
 
@@ -127,7 +131,7 @@ MARITIME NATION AND COLONIAL POWER
 
 - Danmark oprettede også **handelskolonier** i Trankebar og Serampore i det nuværende **Indien**. Herfra kunne danske skibe fragte **krydderier**, **salpeter til fremstilling af krudt** (gunpowder), **bomuldsvarer** og **andre kostbare varer** til Europa.
 
-- Fra **1721** ankom kristne missionærer (传教士) til **Grønland**. 2 målerne:
+- Fra **1721** ankom kristne missionærer (传教士) til **Grønland** med støtte fra den danske konge. Den første var den norske præst **Hans Egede**. 2 målerne:
   - gøre den grønlandske befolkning **kristne**
   - sælge varer fra Grønland som **sælskind**, **spæk** og **hvalkød**.
   
@@ -160,7 +164,8 @@ I første halvdel af 1700-tallet var der **økonomisk krise i landbruget** i Dan
 
 - **Den Florissante Periode**: I sidste fjerdedel af 1700-tallet blomstrede dansk **søfart**, og København udviklede sig til **en international storhavn**.
 
-- **Napoleonskrigene** (**Englandskrigene**)
+- **Napoleonskrigene** (**Englandskrigene**) I Danmark bliver disse krige også kaldt Englandskrigene, fordi Danmark blev allieret med Frankrig i krig mod England (Storbritannien). Krigene begyndte i **1792** som følge af Den Franske Revolution i 1789.
+
 
 - Angreb og besejrede den britiske flåde den danske flåde i **1801**. Slaget kaldes **Slaget på Reden**, fordi det fandt sted i farvandet lige uden for Københavns havn i det område, der kaldes Københavns Red.
 
@@ -183,6 +188,8 @@ I første halvdel af 1700-tallet var der **økonomisk krise i landbruget** i Dan
 
 ## 1.7 DE SLESVIGSKE KRIGE (1848-64)
 
+I første halvdel af 1800-tallet voksede nationalbevidstheden i Europa, herunder i Danmark. Det samme gjorde modsætnings-forholdet mellem dem, der følte sig henholdsvis danske og tyske i det danske rige.
+
 ### 1.7.1 DEN 1. SLESVIGSKE KRIG (1848-50)
 
 - Den danske helstat bestod **i midten af 1800-tallet** af **det danske kongerige** samt hertugdømmerne (duchies) **Slesvig og Holsten**.
@@ -193,17 +200,23 @@ I første halvdel af 1700-tallet var der **økonomisk krise i landbruget** i Dan
 
 - **Det Tyske Forbund** og den stærkeste af de tyske stater, **Preussen**, bakkede op og sendte et stort antal soldater ind i krigen på hertugdømmernes side.
 
+- I **1850** blev **Det Tyske Forbund** og **Preussen** presset af **Rusland** til at trække deres hjælpetropper ud af konflikten.
+
 - Efter en mægling fra de europæiske stormagter blev **resultatet**, **at de to hertugdømmer fortsat skulle indgå i den danske helstat**.
 
 ### 1.7.2 Den 2. SLESVIGSKE KRIG (1864)
+
+- Efter Den 1. Slesvigske Krig havde Danmark lovet stormagterne, at Danmark ikke ville binde Slesvig tættere til sig end Holsten. Men **Danmark brød sit løfte**.
+
+- De tyske stater opfattede den dansk-slesvigske forfatning som et **brud på den aftale**, der var indgået. Preussen, hvis politiske leder var den magtfulde ministerpræsident Otto von Bismarck, erklærede derfor sammen med Østrig krig mod Danmark i februar 1864. Denne krig kaldes Den 2. Slesvigske Krig.
 
 - Danmark måtte afstå **Slesvig**, **Holsten** og det lille hertugdømme **Lauenborg** til **Preussen** og **Østrig**.
 
 - Dele af den danske hær (army) trak sig nordpå i Jylland. Hovedparten af soldaterne holdt dog forsvarsstillingen ved **Dybbøl** nær Sønderborg.
 
-- Krigen og tabet af hertugdømmerne i 1864 betød, at Danmark nu ubetinget var reduceret til en småstat helt uden indflydelse på de europæiske stormagters beslutninger.
-- 
-- For at sikre fortsat overlevelse søgte Danmark nu for næsten enhver pris at undgå at involvere sig i internationale konflikter. 
+- Krigen og tabet af hertugdømmerne i 1864 betød, at Danmark nu ubetinget var reduceret til en småstat **helt uden indflydelse** på de europæiske stormagters beslutninger.
+
+- For at sikre fortsat overlevelse søgte Danmark nu for næsten enhver pris at undgå at involvere sig i internationale konflikter.
 - Sikkerhedspolitisk valgte Danmark derefter at være strengt **neutral** og opretholdt **kun et svagt militært forsvar**.
 
 ## 1.8 INDUSTRIALISERINGEN OG NYE POLITISKE BEVÆGELSER (1864-1914)
@@ -215,16 +228,14 @@ I første halvdel af 1700-tallet var der **økonomisk krise i landbruget** i Dan
 - Den **første jernbane** inden for Danmarks nuværende grænser åbnede i **1847** og kørte mellem **København** og **Roskilde**.
 
 - I oktober 1871 blev den ’**Den internationale Arbejderforening for Danmark**’ grundlagt som en del af den internationale socialistiske bevægelse, der søgte at påvirke arbejdere i mange lande.
-- Arbejdsgiverne fastholdt på deres side retten til at lede og fordele arbejdet. Perioden var derfor præget af strejker og sammenstød. Det mest kendte sammenstød mellem demonstrerende arbejdere og myndighederne var **Slaget på Fælleden**, der fandt sted **i maj 1872**. Det var et stort arbejdermøde i ­ København, som endte i kampe mellem politi og soldater på den ene side og arbejdere på den anden. Ingen blev dræbt på Fælleden, men mange blev fængslet.
+- Arbejdsgiverne fastholdt på deres side retten til at lede og fordele arbejdet. Perioden var derfor præget af strejker og sammenstød. Det mest kendte sammenstød mellem demonstrerende arbejdere og myndighederne var **Slaget på Fælleden**, der fandt sted **i maj 1872**. Det var et stort arbejdermøde i­ København, som endte i kampe mellem politi og soldater på den ene side og arbejdere på den anden. Ingen blev dræbt på Fælleden, men mange blev fængslet.
 
 - Der opstod også et politisk arbejderparti, **Socialdemokratiet**. Det var i begyndelsen en del af arbejderbevægelsen, men blev i **1878** et selvstændigt parti.I **1884** blev de to første socialdemokrater valgt ind i **Folketinget**.
 
-- En langvarig strid i **1899** mellem **arbejdsgivere** og **arbejdere** endte i september samme år med en historisk aftale, **Septemberforliget**, mellem arbejdsmarkedets to hovedorganisationer – der i dag hedder 
+- En langvarig strid i **1899** mellem **arbejdsgivere** og **arbejdere** endte i september samme år med en historisk aftale, **Septemberforliget**, mellem arbejdsmarkedets to hovedorganisationer – der i dag hedder
   - **DA (Dansk Arbejdsgiverforening)**
   - **FH (Fagbevægelsens Hovedorganisation)**
 - Med aftalen bevarede **arbejdsgiverne** deres **ret** til **at lede og fordele arbejdet**,og **arbejderne** fik **ret** til at **organisere sig og varetage deres interesser kollektivt via fagforeninger og tillidsmænd** (union representatives). For eksempel forhandle løn og arbejdsvilkår eller strejke efter nærmere bestemte regler.
-
-
 
 - **Septemberforliget** ligger stadig til grund for den måde, man laver aftaler på det danske arbejdsmarked. Den måde at **aftale** tingene på i Danmark kaldes **”Den Danske Model”**.
 
@@ -238,9 +249,9 @@ I første halvdel af 1700-tallet var der **økonomisk krise i landbruget** i Dan
 
 - De demokratiske principper og tanken om **lighed**, der lå til grund for andelstanken, er senere blevet en vigtig del af det moderne danske samfund. Der findes stadig mange andelsvirksomheder – for eksempel Coop og Arla – selv om de fleste efterhånden har fjernet sig meget fra deres oprindelige grundlag, både hvad angår størrelse og ledelsesform.
 
-### 1.8.3 PARLAMENTARISMENS GENNEMBRUD
+### 1.8.3 PARLAMENTARISMENS GENNEMBRUD (breakthrough)
 
-- I 1866 fik de gennemført en ændring af grundloven, som indebar et demokratisk tilbageskridt. Kongen og de mænd, der havde de højeste indtægter, fik nu ret til at vælge de fleste pladser i Rigsdagens ene kammer, Landstinget. Den noget bredere adgang til at stemme blev dog bevaret til Folketinget.
+- I **1866** fik de gennemført en ændring af grundloven, som indebar et demokratisk tilbageskridt. **Kongen og de mænd, der havde de højeste indtægter, fik nu ret til at vælge de fleste pladser i Rigsdagens ene kammer, Landstinget.** Den noget bredere adgang til at stemme blev dog bevaret til Folketinget.
 
 - I slutningen af 1800-tallet blev den politiske strid hårdere mellem Rigsdagens højre- og venstre-kræfter. **Begge parter mente, at det var dem, som havde grundloven på deres side**. Perioden kaldes derfor for **’Forfatningskampen’**. De organiserede sig omkring 1870 i to politiske partier, **Højre** og **Venstre**.
 
@@ -253,7 +264,7 @@ I første halvdel af 1700-tallet var der **økonomisk krise i landbruget** i Dan
 
 - I **1915-16** reorganiserede det gamle **godsejerparti** **Højre** sig under navet **Det Konservative Folkeparti**. Partiet markerede dermed, at det ønskede at tiltrække andre vælgere end blot landets godsejere og det velhavende borgerskab, og at det nu anerkendte det parlamentariske princip og den lige valgret.
 
-- Skillelinjerne i dansk politik ændrede sig også i begyndelsen af 1900-tallet, således at de primært drejede sig om den økonomiske politik. På den ene side stod **Socialdemokratiet**, der lagde stor vægt på **økonomisk omfordeling mellem rig og fattig**. På den anden side var der de borgerlige partier **Venstre** og **Det Konservative Folkeparti**, som i højere grad ønskede **lave skatter** og **økonomisk frihed**. I midten af denne diskussion stod **Det Radikale Venstre**. Partiet har i sin historie dog samarbejdet mest med **Socialdemokratiet**.
+- Skillelinjerne (boundaries) i dansk politik ændrede sig også i begyndelsen af **1900-tallet**, således at de primært drejede sig om den **økonomiske politik**. På den ene side stod **Socialdemokratiet**, der lagde stor vægt på **økonomisk omfordeling mellem rig og fattig**. På den anden side var der de borgerlige partier **Venstre** og **Det Konservative Folkeparti**, som i højere grad ønskede **lave skatter** og **økonomisk frihed**. I midten af denne diskussion stod **Det Radikale Venstre**. Partiet har i sin historie dog samarbejdet mest med **Socialdemokratiet**.
 
 ### 1.8.4 KVINDEBEVÆGELSEN
 
@@ -305,8 +316,10 @@ blevet tyske statsborgere efter Danmarks tab af Slesvig i den 2. Slesvigske Krig
 
 - Danmark og Norge blev angrebet og besat af det tyske militær den **9. april 1940**.
 - Den tyske forklaring var, at Tyskland ville beskytte de to lande mod britisk besættelse. Men Tysklands besættelse af Danmark skyldtes især, at man var interesseret i Norge. Den tyske krigsførelse var afhængig af leverancer af jernmalm fra **Nordsverige**, som skulle udskibes gennem byen Narvik på den isfri, norske atlanterhavskyst. Den forsyning af råvarer havde briterne også vist interesse for.
-- Efter en større krise i det dansk-tyske forhold i oktober 1942 blev der efter tysk krav dannet en ny regering under ledelse af **Erik Scavenius**, der var tidligere udenrigsminister og en kraftig fortaler for samarbejdspolitikken med Tyskland.
-- Derefter havde Danmark reelt ingen regering, selv om kongen havde nægtet at modtage regeringens afskedsbegæring. I praksis blev landet derefter styret af departementscheferne, det vil sige ministeriernes øverste administrative chefer.
+- Efter en større krise i det dansk-tyske forhold i oktober **1942** blev der efter tysk krav dannet en ny regering under ledelse af **Erik Scavenius**, der var tidligere udenrigsminister og en kraftig fortaler for **samarbejdspolitikken** med Tyskland.
+- I august **1943**, hvor det stod mere og mere klart, at Tyskland ville tabe krigen, kom der imidlertid **store strejker i flere danske byer** som følge af stadig hårdere tyske krav.
+- Den 29. august **1943** besluttede regeringen at indgive sin afskedsbegæring (resignation letter) til kongen, efter at **Scavenius** havde afvist (rejected) tyskernes krav om at gribe aktivt ind mod strejkerne og den stadigt voksende modstand mod den tyske besættelse, herunder det tyske krav om dødsstraf for sabotage. Dermed **sluttede** den danske regerings **samarbejdspolitik** med Nazi-Tyskland. Den tyske besættelsesmagt opløste samtidig det danske militær.
+- Derefter havde Danmark reelt ingen regering, selv om kongen havde nægtet at modtage regeringens afskedsbegæring. I praksis blev landet derefter styret af **departementscheferne**, det vil sige ministeriernes øverste administrative chefer.
 
 ### 1.10.2 REDNINGEN AF DE DANSKE JØDER (Jews)
 
@@ -329,12 +342,15 @@ blevet tyske statsborgere efter Danmarks tab af Slesvig i den 2. Slesvigske Krig
 - Den **5. maj 1945** blev Danmark officielt befriet af britiske styrker efter, at de tyske tropper havde overgivet sig.
 - På **Bornholm** nægtede tyskerne dog at overgive sig. I besættelsens sidste dage blev øen derfor angrebet af sovjetiske styrker, som blev på øen frem til foråret 1946.
 - **Frihedsrådet** blev oprettet i september 1943. Det var en illegal komité, hvor lederne fra de forskellige **modstandsbevægelser** koordinerede modstanden mod den tyske besættelsesmagt.
+- Danmark blev således ikke så hårdt ramt af 2. Verdenskrig som mange andre europæiske lande. 2. Verdenskrig er med cirka **60 millioner døde verden** over den blodigste krig i verdenshistorien, og dødstallet var langt højere i næsten alle  andre tysk besatte lande.
 
 ## 1.11 KOLD KRIG, VELFÆRD OG UNGDOMSOPRØR (1945-72)
 
 ### 1.11.1 DANSK POLITIK OG DEN KOLDE KRIG
 
 Danmark ændrede sig meget i tiden efter 2. Verdenskrig. Danmark opgav sin traditionelle neutralitetspolitik og blev medlem af **NATO** i **1949**.
+
+- Over for NATO stod **Warszawa-pagten**, der blev stiftet i **1955**. Denne forsvarsalliance var **ledet af det kommunistiske Sovjetunionen**, som fik stor indflydelse på landene i **Østeuropa** efter 2. Verdenskrig.
 
 - Krigen havde skabt et stærkt ønske om at sikre international fred og sikkerhed. I **1945** stiftede en række lande derfor **De Forenede Nationer** (**FN**). Danmark var fra begyndelsen med i FN, der blandt andet skulle være med til at **forhindre en ny verdenskrig**.
 
@@ -397,14 +413,20 @@ Danmark blev i **1973** medlem af Det Europæiske Fællesskab, EF, der var forl�
 ### 1.12.3 POLITISK OPBRUD
 
 - 1970’erne var også en periode med store politiske forandringer i Danmark.
-- **Jordskredsvalget**: Socialdemokratiet, Det Radikale Venstre, Venstre, Det Konservative Folkeparti og SF – de fem daværende partier i Folketinget – fik alle meget færre stemmer. Før Jordskredsvalget havde 93 procent af vælgerne stemt på et af de fem partier.Efter valget var det kun 64 procent.
+- **Jordskredsvalget** (1973): Socialdemokratiet, Det Radikale Venstre, Venstre, Det Konservative Folkeparti og SF – de fem daværende partier i Folketinget – fik alle meget færre stemmer. Før Jordskredsvalget havde 93 procent af vælgerne stemt på et af de fem partier.Efter valget var det kun 64 procent.
+
+- Vælgerne stemte til gengæld fem partier mere ind i Folketinget, hvoraf det største blev protestpartiet **Fremskridtspartiet**, som fik 16 procent af stemmerne med advokaten **Mogens Glistrup** i spidsen. Partiets mærkesager var at afskaffe indkomstskat og offentligt bureaukrati. Mange af de gamle partiers vælgere vendte gradvis tilbage over de næste år, og ingen af de nye partier, som blev valgt i 1973, er længere i Folketinget.
 
 - I begyndelsen af 1980’erne havde Danmark et stort underskud på handelsbalancen. Samtidig var omkring 10 procent af arbejdsstyrken uden arbejde. En vigtig årsag til den økonomiske krise var en stor gæld til udlandet.
 
 - **Poul Schlüter** er den første og hidtil **eneste statsminister fra Det Konservative Folkeparti**.
-- Det lykkedes efterhånden Schlüter-regeringen at forbedre den danske økonomi, navnlig i sidste halvdel af 1980’erne.
+- Det lykkedes efterhånden Schlüter-regeringen at forbedre den danske økonomi, navnlig i sidste halvdel af **1980’erne**.
+
 - Schlüter-regeringen ophævede også DR’s monopol. I 1986 blev det således tilladt for private at eje tv-kanaler, og samme år vedtog Folketinget at etablere TV2, som sendte første gang i 1988.
+  
 - I perioden 1982-2022 sad de borgerlige partier **Venstre** og **Det Konservative Folkeparti** således tilsammen i regering og havde statsministerposten i sammenlagt **24 år** og **Socialdemokratiet** i sammenlagt **16 år**.
+
+- **Socialdemokratiet** havde – kun med kortere afbrydelser – siddet i regering og haft statsministerposten det meste af tiden siden 1929. Men i **1982** overlod de – på grund af vanskeligheder (difficulty) med at løse de økonomiske problemer – regeringsmagten til den borgerlige fløj, uden at der havde været folketingsvalg. Statsministeren blev den konservative **Poul Schlüter**, som var statsminister i over ti år frem til 1993.
 
 ### 1.12.4 SOCIALE BEVÆGELSER
 
@@ -420,7 +442,7 @@ Danmark blev i **1973** medlem af Det Europæiske Fællesskab, EF, der var forl�
 
 - I 1992 blev de 12 medlemslande enige om at udvide samarbejdet, og EF skiftede navn til EU – Den Europæiske Union.
 
-- **I juni 1992** stemte et lille flertal af befolkningen (50,7 procent) nej til **Maastricht-traktaten**, som **unionsaftalen** kom til at hedde, fordi den var indgået i byen Maastricht i Holland.
+- **I juni 1992** stemte et lille flertal af befolkningen (50,7 procent) nej til **Maastricht-traktaten**, som **unionsaftalen** kom til at hedde, fordi den var indgået i byen Maastricht i Holland. Det betyder Danmark ville ikke blive en del af EU under de nye samarbejdsaftaler.
 - I **1993** stemte et flertal af befolkningen (56,7 procent) ja til den såkaldte **Edinburgh-aftale**, som betød, at Danmark fik **fire såkaldte forbehold** over for EU. Det vil sige, at Danmark ikke deltog i EU’s samarbejde på følgende fire områder:
   - unionsborgerskabet (EU citizenship)
   - den fælles valuta (euroen)
@@ -433,12 +455,12 @@ Danmark blev i **1973** medlem af Det Europæiske Fællesskab, EF, der var forl�
 I 1993 kom Socialdemokratiet igen til magten med **Poul Nyrup Rasmussen** som ny statsminister.
 
 - udlændingepolitikken
-- I 2001 genvandt de borgerlige partier regeringsmagten. Statsministeren blev **Anders Fogh Rasmussen** fra Venstre.
+- I **2001** genvandt de borgerlige partier regeringsmagten. Statsministeren blev **Anders Fogh Rasmussen** fra Venstre.
 - den nye regering gennemførte flere stramninger af udlændingepolitikken. Formålet var at begrænse dele af indvandringen, få flere i arbejde og forbedre integrationen.
 
 ### 1.13.3 DANMARK I INTERNATIONALE KONFLIKTER
 
-- I **2002** besluttede Folketinget at sende danske soldater til Afghanistan for at deltage i en amerikansk ledet indsats.
+- I **2002** besluttede Folketinget at sende danske soldater til **Afghanistan** for at deltage i en amerikansk ledet indsats.
 - En af Danmarks største **udenrigspolitiske kriser** i nyere tid udviklede sig, efter at avisen **Jyllands-Posten** i **2005** trykte 12 karikaturtegninger af den muslimske profet Muhammed. Avisen trykte tegningerne, fordi den havde hørt, at **nogle tegnere ikke turde tegne Muhammed af frygt for at blive overfaldet eller dræbt**. Karikaturtegningerne førte til store **protester** både i Danmark og i udlandet.
 - I **2015** blev Danmark ramt af et terrorangreb i København, hvor en mand, som sympatiserede med terrororganisationen Islamisk Stat, skød og dræbte en filmskaber, mens han deltog i et debatmøde om ”Kunst, blasfemi og ytringsfrihed” på Østerbro.
 - Senere samme dag forsøgte terroristen at trænge ind i den jødiske synagoge i det indre København. Ved angrebet blev en jødisk vagt skudt og dræbt uden for synagogen. Terroristen blev efterfølgende selv dræbt i en skudveksling med politiet.
@@ -470,8 +492,7 @@ I 1993 kom Socialdemokratiet igen til magten med **Poul Nyrup Rasmussen** som ny
   - **Alternativet** (2015) (det grønne område: klimaet, naturen og miljøet)
   - **Nye Borgerlige** (2019) (der er kommet for mange flygtninge til Danmark, og at for mange af dem var på overførselsindkomst frem for i arbejde. Lavere skatter og offentlige besparelser på blandt andet ulandsbistand og offentligt bureaukrati.)
   - **Danmarksdemokraterne** (2022) (blev dannet af politikere, som tidligere havde været ledende medlemmer af Venstre) (Danmarksdemokraterne blev stiftet af tidligere udlændinge-og integrationsminister Inger Støjberg. Indvandringen til Danmark. Bedre muligheder for befolkningen de mere tyndt befolkede områder af landet, som findes blandt andet i store dele af Jylland.)
-  - **Moderaterne** (2022) (blev dannet af politikere, som tidligere havde været ledende medlemmer af Venstre) (blev stiftet af tidligere statsminister og partiformand Lars Løkke
-Rasmussen. )
+  - **Moderaterne** (2022) (blev dannet af politikere, som tidligere havde været ledende medlemmer af Venstre) (blev stiftet af tidligere statsminister og partiformand Lars Løkke Rasmussen. Partiet ønsker en regering ”hen over midten” med deltagelse både af Socialdemokratiet og borgerlige partier.)
   er valgt til det nuværende Folketing.
 
 - Efter folketingsvalget i 2019 blev socialdemokraten Mette Frederiksen statsminister i en **mindretalsregering**, som kun bestod af **Socialdemokratiet** og med **Radikale Venstre**, **SF** og **Enhedslisten** som såkaldte **støttepartier**.
