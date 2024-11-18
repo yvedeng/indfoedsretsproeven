@@ -4,35 +4,36 @@
   - [2.1 INDLEDNING](#21-indledning)
   - [2.2 DEN DANSKE STYREFORM](#22-den-danske-styreform)
     - [2.2.1 GRUNDLOVEN – DANMARKS FORFATNING](#221-grundloven--danmarks-forfatning)
-      - [HVAD SIGER GRUNDLOVEN?](#hvad-siger-grundloven)
+      - [2.2.1.1 HVAD SIGER GRUNDLOVEN?](#2211-hvad-siger-grundloven)
     - [2.2.2 DEMOKRATIETS INSTITUTIONER](#222-demokratiets-institutioner)
-      - [FOLKETINGET](#folketinget)
-      - [FOLKETINGETS UDVALG](#folketingets-udvalg)
-      - [FOLKETINGSVALG](#folketingsvalg)
-      - [REGERINGEN](#regeringen)
-      - [DOMSTOLENE](#domstolene)
-      - [VALGSYSTEMET](#valgsystemet)
+      - [2.2.2.1 FOLKETINGET](#2221-folketinget)
+      - [2.2.2.2 FOLKETINGETS UDVALG](#2222-folketingets-udvalg)
+      - [2.2.2.3 FOLKETINGSVALG](#2223-folketingsvalg)
+      - [2.2.2.4 REGERINGEN](#2224-regeringen)
+      - [2.2.2.5 DOMSTOLENE](#2225-domstolene)
+      - [2.2.2.6 VALGSYSTEMET](#2226-valgsystemet)
     - [2.2.3 HVORDAN ARBEJDER DEMOKRATIET?](#223-hvordan-arbejder-demokratiet)
     - [2.2.4 DIREKTE DEMOKRATI: FOLKEAFSTEMNINGER OG BORGERFORSLAG](#224-direkte-demokrati-folkeafstemninger-og-borgerforslag)
     - [2.2.5 DET LOKALE SELVSTYRE I KOMMUNER OG REGIONER](#225-det-lokale-selvstyre-i-kommuner-og-regioner)
-      - [KOMMUNALBESTYRELSER OG REGIONSRÅD](#kommunalbestyrelser-og-regionsråd)
-      - [DE KOMMUNALE OG REGIONALE ORGANISATIONER](#de-kommunale-og-regionale-organisationer)
+      - [2.2.5.1 KOMMUNALBESTYRELSER OG REGIONSRÅD](#2251-kommunalbestyrelser-og-regionsråd)
+      - [2.2.5.2 DE KOMMUNALE OG REGIONALE ORGANISATIONER](#2252-de-kommunale-og-regionale-organisationer)
     - [2.2.6 DEMOKRATIETS DELTAGERE (Participants)](#226-demokratiets-deltagere-participants)
-      - [VÆLGERNE](#vælgerne)
-      - [DE POLITISKE PARTIER](#de-politiske-partier)
-      - [FOLKETINGSMEDLEMMERNE](#folketingsmedlemmerne)
-      - [INTERESSEORGANISATIONER OG FORENINGER](#interesseorganisationer-og-foreninger)
-      - [MEDIERNE OG DEN OFFENTLIGE DEBAT](#medierne-og-den-offentlige-debat)
+      - [2.2.6.1 VÆLGERNE](#2261-vælgerne)
+      - [2.2.6.2 DE POLITISKE PARTIER](#2262-de-politiske-partier)
+      - [2.2.6.3 FOLKETINGSMEDLEMMERNE](#2263-folketingsmedlemmerne)
+      - [2.2.6.4 INTERESSEORGANISATIONER OG FORENINGER](#2264-interesseorganisationer-og-foreninger)
+      - [2.2.6.5 MEDIERNE OG DEN OFFENTLIGE DEBAT](#2265-medierne-og-den-offentlige-debat)
     - [2.2.7 DEMOKRATI I HVERDAGEN – MEDBORGERSKAB](#227-demokrati-i-hverdagen--medborgerskab)
   - [2.3 DET DANSKE RETSSAMFUND](#23-det-danske-retssamfund)
     - [2.3.1 RETTIGHEDER I GRUNDLOVEN](#231-rettigheder-i-grundloven)
     - [2.3.2 DEN OFFENTLIGE FORVALTNING (administration)](#232-den-offentlige-forvaltning-administration)
     - [2.3.3 OFFENTLIGHED](#233-offentlighed)
     - [2.3.4 BORGERNES PLIGTER](#234-borgernes-pligter)
-      - [VÆRNEPLIGT](#værnepligt)
-      - [BORGERLIGT OMBUD](#borgerligt-ombud)
-      - [STRAF](#straf)
-      - [STRAFFESAGER](#straffesager)
+      - [2.3.4.1 VÆRNEPLIGT](#2341-værnepligt)
+      - [2.3.4.2 BORGERLIGT OMBUD](#2342-borgerligt-ombud)
+      - [2.3.4.3 STRAF](#2343-straf)
+      - [2.3.4.4 STRAFFESAGER](#2344-straffesager)
+
 
 ## 2.1 INDLEDNING
 
@@ -49,7 +50,7 @@ Grundloven fra **1849** er et fundament, der siden gradvist er blevet bygget vid
 - Dette skete først med grundloven i **1915**. Siden er **valgretsalderen** til Folketinget gradvist blevet nedsat fra 30 år frem til den gældende valgretsalder på **18 år**, som blev vedtaget i 1978.
 - Grundloven er blevet ændret i **1866**, **1915**, **1920** og **1953**. Den **nuværende grundlov** er således fra **1953**. Meget har ændret sig i Danmark de sidste 175 år. Men mange af principperne og store dele af teksten i den nyeste grundlov stammer helt tilbage fra grundloven i 1849.
 
-#### HVAD SIGER GRUNDLOVEN?
+#### 2.2.1.1 HVAD SIGER GRUNDLOVEN?
 
 - Statens øverste organer – Folketinget, regeringen og domstolene – og forholdet imellem dem. (1849)
 - Valg af medlemmer til Folketinget.
@@ -70,7 +71,7 @@ vælgerne også i den forstand, hvem der skal have regeringsmagten. I **1953** b
 
 ### 2.2.2 DEMOKRATIETS INSTITUTIONER
 
-#### FOLKETINGET
+#### 2.2.2.1 FOLKETINGET
 
 - Folketinget er Danmarks parlament og har sammen med regeringen den lovgivendemagt. Folketinget har til huse på **Christiansborg** i København.
 
@@ -86,7 +87,7 @@ vælgerne også i den forstand, hvem der skal have regeringsmagten. I **1953** b
 
 - **Rigsretten** består af op til **15 dommere** (judges) fra **Højesteret** og 15 er valgt af **Folketinget for 6 år ad gangen**. De medlemmer, som Folketinget vælger, kan ikke samtidig væremedlemmer af Folketinget.
 
-#### FOLKETINGETS UDVALG
+#### 2.2.2.2 FOLKETINGETS UDVALG
 
 - En stor del af Folketingets arbejde foregår i de stående (faste) udvalg, der nedsættes af Folketinget. De kaldes ofte for Folketingets værksteder. I folketingssalen trækkes de store linjer op, men det er i udvalgene, at politikken bliver drøftet grundigt og detaljeret.
 
@@ -100,7 +101,7 @@ vælgerne også i den forstand, hvem der skal have regeringsmagten. I **1953** b
 - Regeringen har pligt til at rådføre sig med **Det Udenrigspolitiske Nævn** (the Foreign Policy Committee), før den træffer beslutning af større udenrigspolitisk rækkevidde (impact).
 - Fordi samarbejdet i EU er så omfattende, er der også oprettet et **Europaudvalg**. Der har først og fremmest til opgave at **føre kontrol med den danske EU-politik**. I større sager skal regeringen derfor spørge **Europaudvalget** til råds, før den tager til forhandlinger i EU. Europaudvalget giver på den baggrund regeringen et forhandlingsmandat. Mandatet fastlægger Danmarks holdning til sagen, herunder om regeringen kan stemme for eller imod et forslag. Europaudvalget giver på denne måde Folketinget en mulighed for at styre for eksempel, hvordan regeringen stemmer på møderne i EU’s Ministerråd.
   
-#### FOLKETINGSVALG
+#### 2.2.2.3 FOLKETINGSVALG
 
 - De frie valg er noget af det vigtigste i et demokrati. Ved folketingsvalg har denenkelte vælger indflydelse på, **hvilke politikere og hvilke politiske partier der skal sidde i Folketinget**.
 
@@ -122,7 +123,7 @@ vælgerne også i den forstand, hvem der skal have regeringsmagten. I **1953** b
   - have fast bopæl i riget (Danmark, Færøerne eller Grønland).
   - man må ikke være straffet for noget, som i folks øjne gør én uværdig til at sidde i Folketinget. Det er Folketinget, der bestemmer, om et dømt medlem skal anses som uværdigt.
 
-#### REGERINGEN
+#### 2.2.2.4 REGERINGEN
 
 - Regeringen har den udøvende magt. Den administrerer og fører lovgivningen ud i livet. Men regeringen udarbejder også langt de fleste lovforslag.
 
@@ -136,8 +137,10 @@ vælgerne også i den forstand, hvem der skal have regeringsmagten. I **1953** b
 
 - Enhver **minister** har et **ministerium** med mange **embedsmænd**, som hjælper ministeren i hans eller hendes arbejde.
 - Antallet af ministre ligger ikke fast, men besluttes af statsministeren. Siden år 2000 har der været mellem 17 og 23 ministre i hver regering. En minister behøver ikke at være medlem af Folketinget.
+
+- **Folketinget vælges** for en periode **på højst fire år ad gangen**. **Statsministeren** kan når som helst udskrive nyvalg i løbet af en valgperiode. Det kaldes for **opløsningsretten** og er statsministerens våben over for Folketinget. For hvis der udskrives valg, skal vælgerne på ny afgøre, hvem der skal vælges ind.
   
-#### DOMSTOLENE
+#### 2.2.2.5 DOMSTOLENE
 
 - Domstolene har den dømmende magt.
 - Domstolene kan føre kontrol med Folketingets love.
@@ -145,7 +148,7 @@ vælgerne også i den forstand, hvem der skal have regeringsmagten. I **1953** b
 - Endelig er det domstolenes opgave at løse retlige konflikter mellem borgerne og at dømme i straffesager, hvor en borger anklages for at have begået noget strafbart.
 - Der er **én** højesteret, **to** **landsretter** og **24** **byretter**
 
-#### VALGSYSTEMET
+#### 2.2.2.6 VALGSYSTEMET
 
 - Opstillingsberettiget parti (elligible party): Alle partier, som blev valgt ved sidste folketingsvalg, er automatisk opstillingsberettigede. For de andre partier gælder der særlige regler. Skal det have indsamlet et vist antal **underskrifter** (signagtures), som skal godkendes af indenrigsministeren. Normalt er der tale om cirka 20.000 underskrifter.
 
@@ -194,7 +197,7 @@ Danmark består således af af **98 kommuner** og er inddelt i **5 regioner**:
 - Region Midtjylland med 19 kommuner
 - Region Nordjylland med 11 kommuner
 
-#### KOMMUNALBESTYRELSER OG REGIONSRÅD
+#### 2.2.5.1 KOMMUNALBESTYRELSER OG REGIONSRÅD
 
 - De danske kommuner ledes af **folkevalgte kommunalbestyrelser**, som ofte kaldes **byråd**. Kommunalbestyrelsens formand kaldes **borgmester** og vælges af kommunalbestyrelsen lige efter **kommunalvalget**.
 - På samme måde ledes hver region af et regionsråd, der selv vælger en formand.
@@ -212,7 +215,7 @@ hvert 4 år i november, og kommunerne og regionerne kan ikke vælge at holde val
 
 - Derudover fik **lokallisterne** 2 **borgmesterposter** (mayors). Som følge af valget til de **5 regionsråd** kommer 3 af **formændene** fra Socialdemokratiet, mens 2 kommer fra Venstre.
 
-#### DE KOMMUNALE OG REGIONALE ORGANISATIONER
+#### 2.2.5.2 DE KOMMUNALE OG REGIONALE ORGANISATIONER
 
 - Landets regioner og kommuner har mange ens opgaver og interesser. Derfor arbejder de tæt sammen gennem **Danske Regioner** og **KL (Kommunernes Landsforening)**. De to organisationers overordnede målsætninger er at styrke det lokale selvstyre i regionerne og kommunerne.
 
@@ -220,7 +223,7 @@ hvert 4 år i november, og kommunerne og regionerne kan ikke vælge at holde val
 
 Der er mange deltagere i et demokrati. Vælgerne er grundlaget for folkestyret (democracy).
 
-#### VÆLGERNE
+#### 2.2.6.1 VÆLGERNE
 
 - **Arbejderne** stemte typisk på Socialdemokratiet
 - **Bønderne** stemte på Venstre
@@ -228,11 +231,11 @@ Der er mange deltagere i et demokrati. Vælgerne er grundlaget for folkestyret (
 
 - **Privatansatte** stemmer forholdsvis mest på **borgerlige partier** (the conservative party). **Offentligt ansatte** stemmer forholdsvis mest på Socialdemokratiet og andre partier på venstrefløjen.
 
-#### DE POLITISKE PARTIER
+#### 2.2.6.2 DE POLITISKE PARTIER
 
-#### FOLKETINGSMEDLEMMERNE
+#### 2.2.6.3 FOLKETINGSMEDLEMMERNE
 
-#### INTERESSEORGANISATIONER OG FORENINGER
+#### 2.2.6.4 INTERESSEORGANISATIONER OG FORENINGER
 
 - I Danmark er der tradition for, at politikerne inddrager foreninger og interesseorganisationer i de politiske beslutninger. De kan også efter aftale møde op i Folketingets forskellige udvalg. De bidrager også ofte med nyttig viden til den politiske proces. Interesseorganisationer indgår ofte i udvalg og **arbejdsgrupper** nedsat af **regeringen**.
 
@@ -240,7 +243,7 @@ Der er mange deltagere i et demokrati. Vælgerne er grundlaget for folkestyret (
 
 - De gamle organisationer er suppleret af en række nye inden for områder som for eksempel klima, sundhed og uddannelse.
 
-#### MEDIERNE OG DEN OFFENTLIGE DEBAT
+#### 2.2.6.5 MEDIERNE OG DEN OFFENTLIGE DEBAT
 
 - Medierne spiller på flere måder en vigtig rolle for demokratiet i Danmark.
 
@@ -295,7 +298,7 @@ en forening. Det kan være organisationer på arbejdsmarkedet eller fritidsorgan
 
 ### 2.3.4 BORGERNES PLIGTER
 
-#### VÆRNEPLIGT
+#### 2.3.4.1 VÆRNEPLIGT
 
 - Grundloven bestemmer, at enhver dansk mand har pligt til personligt at tage del i landets forsvar, hvis han er egnet (fit). Alle mænd med dansk statsborgerskab over 18 år, der har bopæl eller ophold i Danmark, skal aftjene værnepligt i en periode. I praksis er der ikke behov for, at alle unge mænd i en årgang aftjener deres værnepligt. Hvis ikke der er frivillige nok, bliver det ved lodtrækning (lottery) afgjort, om man skal aftjene værnepligt.
 
@@ -305,11 +308,11 @@ en forening. Det kan være organisationer på arbejdsmarkedet eller fritidsorgan
 
 - Hvis man af samvittighedsgrunde ikke ønsker at aftjene sin værnepligt i forsvaret eller redningsberedskabet (civial defense), kan man blive **militærnægter**. En militærnægter kan aftjene sin værnepligt ved at udføre andet arbejde til gavn for samfundet. Det kan for eksempel være i institutioner for børn, unge og ældre eller i kulturelle institutioner som for eksempel museer og teatre. Hvis en militærnægter afviser at udføre det anviste arbejde, kan den pågældende straffes med **fængsel**.
 
-#### BORGERLIGT OMBUD
+#### 2.3.4.2 BORGERLIGT OMBUD
 
 En anden pligt i det danske samfund er det **borgerlige ombud** – eller blot et ombud. **Et ombud** er en **opgave** (et hverv), som samfundet kan pålægge en borger. Enhver, der er udpeget til et sådant hverv, skal tage imod det. Det kan eksempelvis være at sidde i en kommunalbestyrelse, hvis borgeren bliver valgt, eller at fungere som lægdomme (domsmand eller nævning juror) ved en domstol.
 
-#### STRAF
+#### 2.3.4.3 STRAF
 
 - I Danmark er den kriminelle lavalder **15 år**. Det betyder, at børn og unge under 15 år ikke kan straffes for en forbrydelse. Det skyldes, at de vurderes som umodne og ude af stand til at vurdere konsekvenserne af deres handlinger.
 
@@ -317,7 +320,7 @@ En anden pligt i det danske samfund er det **borgerlige ombud** – eller blot e
   
 - De almindelige straffe er **bøde** og **fængsel**. **Udlændinge** kan også blive dømt til udvisning af Danmark, hvis de begår forbrydelser. Der kan i Danmark **ikke** idømmes **dødsstraf**.
 
-#### STRAFFESAGER
+#### 2.3.4.4 STRAFFESAGER
 
 - Det er ikke domstolene selv, men kun **anklagemyndigheden**, der kan **rejse en straffesag**.
 
