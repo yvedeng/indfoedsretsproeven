@@ -15,7 +15,7 @@ nav:
   - Danmark og Omverdenen: 4_danmark_og_omverdenen.md
   - Dansk Kulturliv: 5_dansk_kulturliv.md
   - Temaopslag: 6_temaopslag.md
-
+  - Timeline: timeline.md
 plugins:
   - search:
       lang: 
