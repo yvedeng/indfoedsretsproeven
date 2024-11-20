@@ -227,7 +227,8 @@ I første halvdel af 1800-tallet voksede nationalbevidstheden i Europa, herunder
 
 - De vigtigste årsager til industrialiseringen var udviklingen af **dampmaskinen**, **de første jernbaner** i begyndelsen af 1800-tallet samt **adgangen til energi** i form af store **kulreserver**.
 
-- Den **første jernbane** inden for Danmarks nuværende grænser åbnede i **1847** og kørte mellem **København** og **Roskilde**.
+- Den **første jernbane** inden for Danmarks nuværende grænser åbnede i **1847** og kørte mellem **København** og **Roskilde**. Men industrialiseringen slog først for alvor igennem i sidste **halvdel af 1800-tallet**, og først
+efter 2. Verdenskrig gik Danmark fra at være et **landbrugssamfund** til at blive et egentligt **industrisamfund**.
 
 - I oktober 1871 blev den ’**Den internationale Arbejderforening for Danmark**’ grundlagt som en del af den internationale socialistiske bevægelse, der søgte at påvirke arbejdere i mange lande.
 - Arbejdsgiverne fastholdt på deres side retten til at lede og fordele arbejdet. Perioden var derfor præget af (influenced by) strejker og sammenstød (collision). Det mest kendte sammenstød mellem **demonstrerende arbejdere** og **myndighederne** var **Slaget på Fælleden**, der fandt sted **i maj 1872**. Det var et stort arbejdermøde i­ København, som endte i kampe mellem politi og soldater på den ene side og arbejdere på den anden. Ingen blev dræbt på Fælleden, men mange blev fængslet.

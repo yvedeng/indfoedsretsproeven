@@ -13,8 +13,6 @@ Det danske demokrati har udviklet sig gennem næsten **175 år**.
 - **Grundloven** skal være med til at **sikre politisk stabilitet** og **beskytte borgernes grundlæggende rettigheder**.
 - **Grundloven** fra 1953 bærer stadig **præg af sproget** tilbage fra **1849**. Der anvendes ord og udtryk, som ikke er almindelige i dag. **Grundlovens sprog** er en af grundene til, at det til tider har været **debatteret**, om **grundloven bør ændres, så den passer bedre til nutiden**. Det har **også** været **diskuteret**, om grundloven skal være bedre til at **beskytte de grundlæggende friheds- og menneskerettigheder**, og om reglerne for Danmarks deltagelse **i internationalt samarbejde** skal ændres.
 
-(复习的时候再理顺一下)
-
 - Først med **Systemskiftet** i **1901** måtte kongen acceptere, at **Folketinget** bestemmer, **hvem der skal have regeringsmagten**. Dette system kaldes for **parlamentarisme**. I begyndelsen var det kun mænd over 30 år, der kunne stemme. De måtte ikke have modtaget fattighjælp og måtte ikke være umyndiggjorte. De skulle desuden have fast bopæl og være uberygtede (not notorious).
 
 - Dette skete først med grundloven i **1915**. Siden er **valgretsalderen** til Folketinget gradvist blevet nedsat fra 30 år frem til den gældende valgretsalder på **18 år**, som blev vedtaget i 1978.
@@ -117,7 +115,7 @@ vælgerne også i den forstand, hvem der skal have regeringsmagten. I **1953** b
 
 - Regeringen har den udøvende magt. Den administrerer og fører lovgivningen ud i livet. Men **regeringen udarbejder også langt de fleste lovforslag**.
 
-- Regeringen ledes af **statsministeren** og består af **ministre fra ét eller flere partier**. De partier i Folketinget, som sammen har regeringsmagten, kaldes **regeringspartierne**. Hvis regeringspartierne tilsammen har flertallet i Folketinget, taler man om en **flertalsregering**.
+- Regeringen ledes af **statsministeren** og består af **ministre fra ét eller flere partier**. De partier i Folketinget, som sammen har regeringsmagten, kaldes **regeringspartierne**. Hvis regeringspartierne tilsammen har flertallet i Folketinget, taler man om en **flertalsregering**. 
 
 - Siden 2. Verdenskrig har langt de **fleste** regeringer dog været såkaldte **mindretalsregeringer**.
 - De partier uden for regeringen, der støtter en mindretalsregering, kaldes **støttepartier**.
@@ -209,7 +207,7 @@ offentliggjort og kan træde i kraft.
 
 - Der er også tradition for, at kommunerne så **vidt muligt** selv skal kunne beslutte, hvordan de vil løse og finansiere de lokale opgaver. Ofte får kommunerne mulighed for at løse offentlige opgaver på den måde, der passer bedst til de lokale behov og ønsker. **Kommunerne** har også **ret til at udskrive skat**. Dermed er de selv med til at skaffe de fleste af pengene til at løse deres opgaver.
 
-- Det danske kommunestyre udvikler sig hele tiden. **1. januar 2007** trådte en større strukturreform i kraft. Fra den dag blev **271 kommuner** slået sammen til **98**, og de **tidligere 14 amter** blev erstattet af **5 regioner**.
+- Det danske kommunestyre udvikler sig hele tiden. **1. januar 2007** trådte en større **strukturreform** i kraft. Fra den dag blev **271 kommuner** slået sammen til **98**, og de **tidligere 14 amter** blev erstattet af **5 regioner**.
 
 - Danmark består således af af **98 kommuner** og er inddelt i **5 regioner**:
 
@@ -246,7 +244,7 @@ hvert 4 år i november, og kommunerne og regionerne kan ikke vælge at holde val
 
 ### 2.2.6 DEMOKRATIETS DELTAGERE (Participants)
 
-Der er mange deltagere i et demokrati. **Vælgerne** er **grundlaget** for **folkestyret** (democracy). 
+Der er mange deltagere i et demokrati. **Vælgerne** er **grundlaget** for **folkestyret** (democracy).
 
 #### 2.2.6.1 VÆLGERNE
 
