@@ -12,7 +12,7 @@
 - Det danske **velfærdssamfund** bygger på et **princip** om, at den **enkelte borger** har **både** **rettigheder** og **pligter**. **Uformel kontrakt** mellem staten og borgerne med både pligter og rettigheder.
 
 - I Danmark er retten til ydelser normalt **IKKE afhængig af**, at **man har været i arbejde og har betalt sociale bidrag**, som det er tilfældet i flere lande syd for Danmark i Europa. Velfærden stilles til rådighed for **alle borgere**, når de opfylder betingelserne for at modtage den.
-- Der er lagt stor vægt på serviceopgaver, der aflaster familien. Det gælder **specielt børnepasning** (**vuggestuer**, **børnehaver**, **skolefritidsordninger**) og **ældrepleje** (**hjemmehjælp**, **plejehjem** med videre)
+- Der er lagt **stor vægt på serviceopgaver**, der aflaster familien. Det gælder **specielt børnepasning** (**vuggestuer**, **børnehaver**, **skolefritidsordninger**) og **ældrepleje** (**hjemmehjælp**, **plejehjem** med videre)
 
 ### 3.2.1 DEN DANSKE VELFÆRDSMODELS UDVIKLING
 
@@ -37,14 +37,15 @@
 - En af de største **langsigtede udfordringer** for velfærdsstaten i Danmark og andre europæiske lande er, at **der bliver færre til at betale for den velfærd, som flere skal nyde godt af**. Det skyldes primært, at **middellevetiden stiger, men også at fødselstallet har været lavt i mange årtier**. Man taler derfor om, at den såkaldte **’forsørgerbyrde’** – eller det ’**demografiske pres**’ - er steget. Fra **1980** til **2024** er andelen af borgere i Danmark på **over 64 år** vokset fra at **udgøre 14 procent** til **20 procent** af den samlede.
 
   1. En væsentlig del af løsningen har derfor været at **udvide den erhvervsaktive alder**. Således besluttede Folketinget i **2006**, at **folkepensionsalderen skulle hæves** i takt med, at **danskerne lever længere**. Folkepensionsalderen var **65 år** til og med **2018**, men hæves gradvist, først til **67 år** i **2022**, derefter til **68 år** fra **2030** og **69 år** fra **2035**. Desuden blev det i **2011** vedtaget at **afkorte efterlønnen**. **Efterlønnen** var indført i **1979** som en ret for personer over 60 år til at trække sig tilbage fra arbejdsmarkedet inden pensionsalderen.
+  2. Fra **2022** har personer, der som **61-årige** har været længe (**42-44 år**) på arbejdsmarkedet fået ret til at gå på pension ét til **3 år** før folkepensionsalderen (**tidligpension**). Tidlig pension kaldes også ’Arne-pensionen” efter bryggeriarbejder **Arne Juhl**, som blev ansigtet på Socialdemokratiets valgkamp ved folketingsvalget i 2019 for at få indført ordningen.
 
-  2. **Efterlønsalderen** (The early retirement age) **blev gradvist hævet** (raised) fra **60** til **62** år fra 2014-2017, derefter **afkortes** perioden gradvist til **3 år**, så man fra 2023 har kunnet på efterløn, fra man er 64 til 67 år.
+  3. **Efterlønsalderen** (The early retirement age) **blev gradvist hævet** (raised) fra **60** til **62** år fra 2014-2017, derefter **afkortes** perioden gradvist til **3 år**, så man fra 2023 har kunnet på efterløn, fra man er 64 til 67 år.
   
-  3. Man har også forsøgt at få flere i arbejde ved at **afkorte den såkaldte dagpengeperiode**, det vil sige den periode, hvor man kan modtage understøttelse som arbejdsløs fra en **arbejdsløshedskasse** (**A-kasse**). I **1993** blev der sat en **grænse** for **dagpengeperioden** på **7 år**, som løbende er blevet reduceret: I **1995** til **5 år**, i **1998** til **4 år** og siden **2010** har den ligget på **2 år**.
+  4. Man har også forsøgt at få flere i arbejde ved at **afkorte den såkaldte dagpengeperiode**, det vil sige den periode, hvor man kan modtage understøttelse som arbejdsløs fra en **arbejdsløshedskasse** (**A-kasse**). I **1993** blev der sat en **grænse** for **dagpengeperioden** på **7 år**, som løbende er blevet reduceret: I **1995** til **5 år**, i **1998** til **4 år** og siden **2010** har den ligget på **2 år**.
 
-  4. Man har **sænket** **indkomstskatten** for folk, **der er i arbejde**, herunder også med et såkaldt **beskæftigelsesfradrag**.
+  5. Man har **sænket** **indkomstskatten** for folk, **der er i arbejde**, herunder også med et såkaldt **beskæftigelsesfradrag**.
 
-  5. Endelig har der været gennemført en række initiativer for at **få flere i arbejde** blandt de grupper, der har haft svært ved at finde arbejde.
+  6. Endelig har der været gennemført en række initiativer for at **få flere i arbejde** blandt de grupper, der har haft svært ved at finde arbejde.
      - Det er således blevet **sværere** for dem, der har en varig (permanent) og væsentlig (significant) nedsat evne til at arbejde, at få **førtidspension**. I stedet har man givet dem mulighed for at arbejde i et såkaldt **fleksjob**, så de tjener **en del selv** og får en offentlig ydelse for resten.
      - **Beskæftigelsen** for personer med ikke-vestlig indvandrerbaggrund er også samlet set **steget** siden **1995** – dog med **store udsving** i perioden. I **2020** var **66 procent** af indvandrere med ikke-vestlig baggrund **mellem 25 og 64 år** i arbejde mod **85 procent** af personer med **dansk oprindelse** i samme aldersgruppe.
 - Høj beskæftigelse i Danmark bidrager til et højt velstandsniveau, og til at Danmark kan finansiere en udbygget offentlig sektor.
@@ -154,7 +155,7 @@ eksport: Der blev satset på animalsk produktion som for eksempel kød, smør og
 
 ### 3.4.1 HØJ ORGANISATIONSGRAD
 
-- På det danske arbejdsmarked er det store flertal af lønmodtagerne fagligt organiseret, selvom andelen dog er faldet de seneste årtier. Næsten to ud af tre **(64,4procent)** af lønmodtagerne er (i **2023**) medlem af en fagforening.
+- På det danske arbejdsmarked er det store flertal af lønmodtagerne fagligt organiseret, selvom andelen dog er faldet de seneste årtier. Næsten to ud af tre **(64,4 procent)** af lønmodtagerne er (i **2023**) medlem af en fagforening.
 - Kun **Danmark**, **Sverige**, **Finland** og **Island** har så høj en organisering.
 - Fagforeningen arbejder for at sikre medlemmerne de bedst mulige vilkår på arbejdspladserne. Der er fagforeninger både for privatansatte og for offentligt ansatte.
 - Både **fagforeningerne** og **arbejdsgivernes organisationer** er samlet i **landsdækkende forbund** og **hovedorganisationer**. Den **største hovedorganisation** er **Fagbevægelsens Hovedorganisation (FH)**.

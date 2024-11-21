@@ -189,8 +189,13 @@ offentliggjort og kan træde i kraft.
 
 - Siden **grundloven** sidst blev ændret i **1953**, har der været gennemført **16 folkeafstemninger**. Over halvdelen af dem har handlet om Danmarks forhold til EU.
 
-  - I **2000** stemte et flertal af vælgerne imod, at den fælles europæiske mønt, euroen, blev indført i Danmark i stedet for den danske krone. Der var flertal i Folketinget for at indføre euroen, men vælgerne sagde altså nej.
+  - I **1973** stemte ja (**63,3 procent**) om **medlemskab** ind i EF.
+  - I **1986** stemte ja (**56,2 procent**) til en ny folkeafstemning om en **styrkelse af samarbejdet i EF**
+  - I **1992** stemte **nej** om **Maastricht-traktaten**.
+  - I **1993** stemte **ja** til om **Maastricht-traktaten** med 4 EU-forbehold (**Edinburg-aftale**).
+  - I **2000** stemte et flertal af vælgerne imod, at den fælles europæiske **mønt**, euroen, blev indført i Danmark i stedet for den danske krone. Der var flertal i Folketinget for at indføre euroen, men vælgerne sagde altså nej.
   - I **2009** stemte et flertal for ligestilling mellem kønnene med hensyn til i arvefølgen i kongehuset, så mænd og kvinder har lige arveret til tronen.
+  - I **2015** stemte **nej** til omdannelse af Danmarks retsforbehold til en tilvalgsordning. Tilvalgsordningen ville give Danmark mulighed for selv at bestemme, hvilke dele af det retlige EU-samarbejde, Danmark vil deltage i, men samtidig muligheden for at vælge at stå uden for andre områder.
   - Ved den seneste afstemning i **2022** stemte et stort flertal ja til at afskaffe forbeholdet over for EU’s forsvars-og sikkerhedspolitik.
 
 - Borgerne har siden 2018 også haft mulighed for at få indflydelse ved at stille såkaldte **borgerforslag**. Dette giver **borgere**, der har **valgret til Folketinget**, mulighed for at stille et forslag offentligt på hjemmesiden www.borgerforslag.dk. Det kræver **mindst 4 borgere** at kunne stille et borgerforslag. Andre borgere med valgret til Folketinget har herefter mulighed for at støtte borgerforslaget. Får et **borgerforslag** **50.000 støtter** i**nden 180 dage**, overvejer Folketinget, om **forslaget skal fremsættes i Folketinget**. Borgerne har ikke krav (right) på, at et borgerforslag fremsættes i Folketinget. Det skyldes, at grundloven siger, at **kun medlemmer af Folketinget** og **ministre** kan fremsætte forslag i Folketinget.
