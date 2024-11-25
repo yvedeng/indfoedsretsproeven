@@ -90,7 +90,7 @@ blod.
 
 - **Lene Adler Petersen** har arbejdet med både film, aktioner, grafik, maleri og skulptur. I 1969 skabte hun og hendes mand **Bjørn Nørgaard** aktionen ”**Den kvindelige Kristus**”, hvor hun vandrede nøgen gennem Børsen i København med et kors i hånden. Aktionen blev et ikon for en ny eksperimenterende og kritisk kunst vendt mod kapitalistiske og mandsdominerende normer.
 
-- En vigtig nyere kunstværk er **Bjørn Nørgaards** hovedværk bestående af 17 store **gobeliner** (vægtæpper), som udsmykker riddersalen på **Christiansborg** og fortæller danmarkshistoriens gang tilbage fra vikingetiden og frem til vores tid. Gobelinerne var en fødselsdagsgave fra en række erhvervsorganisationer, virksomheder med mere til Dronningens **50-års fødselsdag i 1990**. De tog **10 år** at lave og blev indviet på Dronningens 60-års fødselsdag i år 2000.
+- En vigtig nyere kunstværk er **Bjørn Nørgaards** hovedværk bestående af 17 store **gobeliner** (vægtæpper), som udsmykker **riddersalen** på **Christiansborg** og fortæller danmarkshistoriens gang tilbage fra vikingetiden og frem til vores tid. Gobelinerne var en fødselsdagsgave fra en række erhvervsorganisationer, virksomheder med mere til Dronningens **50-års fødselsdag i 1990**. De tog **10 år** at lave og blev indviet på Dronningens 60-års fødselsdag i år 2000.
 
 - En anden kunstner, der har gjort sig bemærket de seneste årtier, er **dansk-islandske Olafur Eliasson (født 1967)**. Et af hans mest kendte værker er **Your rainbow panorama** (Din **regnbueudsigt**) (2011) oven på kunstmuseet ARoS i Aarhus, som er en 150 meter lang cirkelformet gangbro i glas, hvor man kan se ud over Aarhus i alle regnbuens farver.
 
